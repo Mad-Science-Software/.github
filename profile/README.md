@@ -24,7 +24,7 @@ Y88b  d88P Y88b.   888Y8b.    888  888Y88b.   Y8b.
 ```
 We've been in the lab... performing mad science.
 
-Wiring up big red buttons, then pressing them.
-Teaching robots to ~~love~~ be fashionable.
-Obliterating weeds in our garden with a dangerous laser.
-Creating social media that's useless for marketing.
+Wiring up big red buttons, then pressing them.  
+Teaching robots to ~~love~~ be fashionable.  
+Obliterating weeds in our garden with a dangerous laser.  
+Creating social media that's useless for marketing.  
